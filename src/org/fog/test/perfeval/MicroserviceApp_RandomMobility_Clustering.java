@@ -58,7 +58,7 @@ public class MicroserviceApp_RandomMobility_Clustering {
     static LocationHandler locator;
 
     static double SENSOR_TRANSMISSION_TIME = 10;
-    static int numberOfMobileUser = 1;
+    static int numberOfMobileUser = 8;
 
     // if random mobility generator for users is True, new random dataset will be created for each user
     static boolean randomMobility_generator = false; // To use random datasets
